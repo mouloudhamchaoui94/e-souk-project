@@ -1,0 +1,4 @@
+services/clientService/ClientServiceApplication.class
+services/clientService/controllers/ClientController.class
+services/clientService/repositories/ClientRepositoryI.class
+services/clientService/models/Client.class
